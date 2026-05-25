@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+.DS_Store
+
+# 현재 리팩터링 코드에서 사용하지 않는 Figma 생성 보조 파일
+src/app/components/ui/
+src/app/components/figma/
+src/imports/
+default_shadcn_theme.css
